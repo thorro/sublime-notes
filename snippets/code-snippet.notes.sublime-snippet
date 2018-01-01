@@ -1,10 +1,10 @@
 <snippet>
-	<content><![CDATA[
-[${1:js}]
-	${2://code}
-[\\${1:js}]
+        <content><![CDATA[
+[${1:shell}]
+        ${2:#!/bin/bash}
+[\\${1:shell}]
 ]]></content>
 <description>Code Snippet</description>
-<tabTrigger>[</tabTrigger>
+<tabTrigger>c</tabTrigger>
 <scope>source.notes</scope>
 </snippet>
